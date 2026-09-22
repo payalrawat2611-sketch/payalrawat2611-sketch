@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Payal Rawat 👋
 
-<!--
-**payalrawat2611-sketch/payalrawat2611-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science student focused on building strong foundations in Java, Python, Data Structures & Algorithms, and backend development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 B.Tech CSE Student
+* 💻 Learning Java and Data Structures & Algorithms
+* 🐍 Working with Python and SQL
+* 🔧 Exploring backend development
+* 🚀 Interested in software engineering and AI-powered applications
+
+## Technical Skills
+
+**Languages:** Java, Python, SQL
+
+**Core CS:** OOP, Data Structures & Algorithms, DBMS
+
+**Tools:** Git, GitHub, IntelliJ IDEA, VS Code
+
+**Currently Learning:** Spring Boot, REST APIs, PostgreSQL
+
+## Featured Projects
+
+* **Java-CORE** — Structured Core Java learning and practice repository
+* **FileFlow** — Python-based file management project
+* **Gym_web** — Frontend web development project
+
+## Current Focus
+
+```text
+Java → DSA → SQL → Spring Boot → REST APIs → Backend Projects
+```
+
